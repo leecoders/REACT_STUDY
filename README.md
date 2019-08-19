@@ -1,6 +1,6 @@
 # REACT_STUDY repos
 
-### [movie_app](https://github.com/leecoders/movie_app)
+### no.1 : [movie_app](https://github.com/leecoders/movie_app) (완료)
 
-### [velopert_react_basics](https://github.com/leecoders/velopert_react_basics)
+### no.2 : [velopert_react_basics](https://github.com/leecoders/velopert_react_basics) (진행)
 
