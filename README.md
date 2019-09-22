@@ -4,5 +4,4 @@
 
 ### 2. [velopert_react_basics](https://github.com/leecoders/velopert_react_basics) (완료)
 
-### 3. [react_todolist](https://github.com/leecoders/react_todolist)(진행)
-
+### 3. [react_todolist](https://github.com/leecoders/react_todolist)(완료)
